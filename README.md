@@ -509,6 +509,7 @@
         + [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/)
         + [tus fileupload](http://www.tus.io/)
         + [Fine Uploader](http://fineuploader.com/)
+        + [Simple Ajax Uploader] (https://github.com/LPology/Simple-Ajax-Uploader)
     + Sitemap
         + [SlickMap CSS](http://astuteo.com/slickmap)
     + Table Of Contents
